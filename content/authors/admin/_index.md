@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Raihan Sultan Pasha Basuki.
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Raihan / Sultan
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Raihan
+last_name: Basuki
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 👨‍🏫
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: System Engineer / Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -31,16 +31,16 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:raihansultanpb@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+#  - icon: brands/x
+#    url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/raihansltn
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/Toughrebel4041
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/raihansltn
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
@@ -49,46 +49,28 @@ profiles:
 interests:
   - Artificial Intelligence
   - Computational Linguistics
-  - Information Retrieval
+  - Cybersecurity
+  - Cryptography
+  - Computer Architecture
+  - Compiling
+  - Network
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BCs / S.Kom.
+    institution: Universitas Ary Ginanjar
+    date_start: 2022
+    date_end: 2026
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: System Engineer
+    company_name: Meta Cyber Brotherindo
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2023-12-11
     date_end: ''
     summary: |2-
       Responsibilities include:
