@@ -3,7 +3,7 @@
 title: Raihan Sultan Pasha Basuki.
 
 # Name pronunciation (optional)
-name_pronunciation: Raihan / Sultan
+name_pronunciation: Raihan/Sultan
 
 # Full name (for SEO)
 first_name: Raihan
@@ -165,4 +165,10 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm a dedicated undergraduate student pursuing a degree in Computer Science at Universitas Ary Ginanjar (ESQ Business School), specializing in Cybersecurity and Network Engineering. My learning sectors extend to diverse areas, including Web Development, Data Mining, AI Engineering, and Software Engineering. Proficient in Content and Copy Writing, also spend most of my free time on Bug Hunting and Cybersecurity Enthusiast Activities. I'm known for my reliability and agility in fast-paced environments. I possess a keen aptitude for learning and excel in public speaking and communication, particularly during presentations. As an exceptional team player, I also demonstrate independence with outstanding interpersonal skills.
+
+My journey in Computer Science and Engineering began in junior high school, and I have continuously advanced my skills through courses at MITx, Coursera, and Dicoding in Computer & Software Engineering. I undertook an intensive course at MySkill, completed a basic web development bootcamp at DiCoding Academy and freeCodeCamp, and self-taught Robotic Engineering using Arduino and C language.
+
+In addition to my technical pursuits, I have delved into diverse subjects such as Astrophysics and General Astronomy, having been part of the Olympiad Team in High School. I explored World Conflict History through HarvardX courses and acquired additional skills in writing, public speaking, basic digital marketing, and customer relationship management.
+
+Eager to contribute my skills and knowledge, I'm actively seeking opportunities in organizations that provide challenges and room for professional growth. Feel free to connect with me, or reach out via email at raihansultanpb@gmail.com.
