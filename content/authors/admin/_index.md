@@ -157,7 +157,7 @@ awards:
   - title: Alibaba Cloud Certified Developers
     date: '2023-10-20'
     awarder: Alibaba Cloud
-    icon: alibaba-cloud-fill
+    icon: alibabacloud
 ---
 
 ## About Me
