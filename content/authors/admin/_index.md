@@ -45,13 +45,13 @@ profiles:
     url: https://scholar.google.com/citations?hl=en&user=jwB4qBkAAAAJ&view_op=list_works&gmla=AL3_zijqw0rHTAl2lH8F9ZFq1QaxIuQkHzMEI_mY8P4iNdqh3ylq1dWelPYnv7JIVG5UOUiqmPpri48dSZDfmNOGUw_Ntdd42o39DDfXa6SgyJJSrkEe93QcH6_lLB8rEf1LPD2tdpA9ts3dO0RZ3z0&iaan=Raihan+Sultan
   - icon: academicons/orcid
     url: https://orcid.org/0009-0004-0010-4296
-  - icon: custom/bugcrowd.svg
+  - icon: custom/bugcrowd
     url: https://bugcrowd.com/Toughrebel
-  - icon: custom/hackerone.svg
+  - icon: custom/hackerone
     url: https://hackerone.com/toughrebel4041
-  - icon: custom/thm.svg
+  - icon: custom/thm
     url: https://tryhackme.com/p/Toughrebel4041
-  - icon: custom/htb.svg
+  - icon: custom/htb
     url: https://app.hackthebox.com/profile/1694907
 interests:
   - Artificial Intelligence
