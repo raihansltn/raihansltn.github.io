@@ -11,7 +11,7 @@ last_name: Basuki
 
 # Status emoji
 status:
-  icon: 👨‍🏫
+  icon:
 
 # Is this the primary user of the site?
 superuser: true
@@ -24,8 +24,8 @@ role: System Engineer / Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Meta Cyber Brotherindo
+    url: https://metacyber.co.id/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -42,7 +42,7 @@ profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/raihansltn
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?hl=en&user=jwB4qBkAAAAJ&view_op=list_works&gmla=AL3_zijqw0rHTAl2lH8F9ZFq1QaxIuQkHzMEI_mY8P4iNdqh3ylq1dWelPYnv7JIVG5UOUiqmPpri48dSZDfmNOGUw_Ntdd42o39DDfXa6SgyJJSrkEe93QcH6_lLB8rEf1LPD2tdpA9ts3dO0RZ3z0&iaan=Raihan+Sultan
   - icon: academicons/orcid
     url: https://orcid.org/0009-0004-0010-4296
 
@@ -68,26 +68,30 @@ education:
 work:
   - position: System Engineer
     company_name: Meta Cyber Brotherindo
-    company_url: ''
-    company_logo: ''
+    company_url: https://metacyber.co.id/
+    company_logo: https://metacyber.co.id/wp-content/uploads/2023/07/cropped-Screenshot_29-removebg-preview-385x187.png
     date_start: 2023-12-11
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Managed technical engineering across multiple cybersecurity platforms: Delivered solutions for diverse clients by implementing and maintaining platforms like SolarWinds and Splunk for IT monitoring, SentinelOne for endpoint protection, and Tenable for comprehensive vulnerability assessments. Ensured seamless integration and optimal performance for each platform.
+      - Oversaw operations and maintenance of the Arbor Edge Defense (AED) platform: Specialized in DDoS mitigation using AED by Netscout, performing proactive system checks, updates, and fine-tuning configurations to fortify client network security postures.
+      - Strengthened network and endpoint defenses: Deployed and customized advanced endpoint protection platforms, ensuring robust threat detection, prevention, and response across client environments.
+      - Conducted vulnerability assessments: Leveraged Tenable to identify, analyze, and mitigate critical vulnerabilities, providing actionable reports and remediation plans to improve security resilience.
+      - Optimized IT monitoring systems: Utilized platforms like SolarWinds and Splunk to deliver real-time monitoring, logging, and analytics solutions, enabling proactive incident detection and resolution.
+      - Collaborated with cross-functional teams: Partnered with internal teams and client stakeholders to design, implement, and manage tailored security solutions aligned with organizational objectives.
+      - Ensured compliance and security standards: Maintained adherence to industry best practices and compliance requirements by configuring platforms to meet rigorous security benchmarks.
+  # - position: Backend Software Engineer
+  #   company_name: X
+  #   company_url: ''
+  #   company_logo: ''
+  #   date_start: 2016-01-01
+  #   date_end: 2020-12-31
+  #   summary: |
+  #     Responsibilities include:
+  #     - Migrated infrastructure to a new data center
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -125,11 +129,11 @@ skills:
 
 languages:
   - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+    percent: 95
+  - name: German
+    percent: 55
+  - name: Italian
+    percent: 15
 
 # Awards.
 #   Add/remove as many awards below as you like.
