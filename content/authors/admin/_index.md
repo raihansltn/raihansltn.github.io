@@ -45,7 +45,14 @@ profiles:
     url: https://scholar.google.com/citations?hl=en&user=jwB4qBkAAAAJ&view_op=list_works&gmla=AL3_zijqw0rHTAl2lH8F9ZFq1QaxIuQkHzMEI_mY8P4iNdqh3ylq1dWelPYnv7JIVG5UOUiqmPpri48dSZDfmNOGUw_Ntdd42o39DDfXa6SgyJJSrkEe93QcH6_lLB8rEf1LPD2tdpA9ts3dO0RZ3z0&iaan=Raihan+Sultan
   - icon: academicons/orcid
     url: https://orcid.org/0009-0004-0010-4296
-
+  - icon: bugcrowd.svg
+    url: https://bugcrowd.com/Toughrebel
+  - icon: hackerone.svg
+    url: https://hackerone.com/toughrebel4041
+  - icon: thm.svg
+    url: https://tryhackme.com/p/Toughrebel4041
+  - icon: htb.svg
+    url: https://app.hackthebox.com/profile/1694907
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -114,18 +121,18 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
+      - name: IoT
         description: ''
         percent: 80
-        icon: camera
+      #  icon: person-simple-walk
+      - name: Warhammer
+        description: ''
+        percent: 60
+      #  icon: cat
+      - name: Capture The Flag Cybersecurity
+        description: ''
+        percent: 80
+      #  icon: camera
 
 languages:
   - name: English
