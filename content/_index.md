@@ -47,6 +47,25 @@ sections:
         I’m always excited to collaborate with like-minded individuals and organizations to solve complex challenges and drive innovation. Let’s create something impactful together!
     design:
       columns: '1'
+      design:
+      view: article-grid
+      columns: 2
+      background:
+        image:
+          # Name of image in `assets/media/`.
+          filename: cyber.jpg
+          # Apply image filters?
+          filters:
+            # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
+            brightness: 0.8
+          #  Image fit. Options are `cover` (default), `contain`, or `actual` size.
+          size: cover
+          # Image focal point. Options include `left`, `center` (default), or `right`.
+          position: center
+          # Use a fun parallax-like fixed background effect on desktop? true/false
+          parallax: true
+          # Text color (true=light, false=dark, or remove for the dynamic theme color).
+          text_color_light: true
   - block: collection
     id: papers
     content:
@@ -61,7 +80,7 @@ sections:
       background:
         image:
           # Name of image in `assets/media/`.
-          filename: background2.jpg
+          filename: background1.jpg
           # Apply image filters?
           filters:
             # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
@@ -94,6 +113,22 @@ sections:
     design:
       view: article-grid
       columns: 1
+      background:
+        image:
+          # Name of image in `assets/media/`.
+          filename: background2.jpg
+          # Apply image filters?
+          filters:
+            # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
+            brightness: 0.6
+          #  Image fit. Options are `cover` (default), `contain`, or `actual` size.
+          size: cover
+          # Image focal point. Options include `left`, `center` (default), or `right`.
+          position: center
+          # Use a fun parallax-like fixed background effect on desktop? true/false
+          parallax: true
+          # Text color (true=light, false=dark, or remove for the dynamic theme color).
+          text_color_light: true
   - block: collection
     id: news
     content:
