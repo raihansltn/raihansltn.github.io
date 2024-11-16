@@ -35,11 +35,11 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I'm a dedicated solo research scientist with a passion for exploring diverse and impactful fields. My work spans across cybersecurity, where I specialize in uncovering and analyzing security flaws and bugs to strengthen systems against vulnerabilities. In addition, I delve deeply into the realms of artificial intelligence and machine learning, aiming to unlock innovative applications and refine existing methodologies.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        With a multidisciplinary approach, I strive to contribute meaningful insights that advance technology and its integration into society. Whether it’s through exploring cutting-edge algorithms, identifying potential threats in digital infrastructures, or designing robust AI models, my goal is to push the boundaries of what’s possible.
+
+        I’m always excited to collaborate with like-minded individuals and organizations to solve complex challenges and drive innovation. Let’s create something impactful together!
     design:
       columns: '1'
   - block: collection
