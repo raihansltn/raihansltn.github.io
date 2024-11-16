@@ -17,19 +17,24 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/resume.pdf
+        url: uploads/resume.pdf    
     design:
-      css_class: dark
       background:
-        color: black
         image:
-          # Add your image background to `assets/media/`.
-          filename: stacked-peaks.svg
+          # Name of image in `assets/media/`.
+          filename: background.jpg
+          # Apply image filters?
           filters:
-            brightness: 1.0
+            # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
+            brightness: 0.6
+          #  Image fit. Options are `cover` (default), `contain`, or `actual` size.
           size: cover
+          # Image focal point. Options include `left`, `center` (default), or `right`.
           position: center
-          parallax: false
+          # Use a fun parallax-like fixed background effect on desktop? true/false
+          parallax: true
+          # Text color (true=light, false=dark, or remove for the dynamic theme color).
+          text_color_light: true
   - block: markdown
     content:
       title: '📚 My Research'
