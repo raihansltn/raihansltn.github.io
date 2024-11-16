@@ -67,7 +67,7 @@ sections:
           # Text color (true=light, false=dark, or remove for the dynamic theme color).
           text_color_light: true
   - block: collection
-    id: papers
+    id: powerprime
     content:
       title: Contents
       filters:
