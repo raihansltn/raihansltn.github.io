@@ -38,7 +38,7 @@ profiles:
   - icon: brands/instagram
     url: https://www.instagram.com/raihansltn
 #  - icon: brands/github
-#    url: https://github.com/Toughrebel4041
+#    url: https://github.com/Toughrebel4041 
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/raihansltn
   - icon: academicons/google-scholar
