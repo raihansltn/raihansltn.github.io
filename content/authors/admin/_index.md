@@ -65,13 +65,13 @@ interests:
 education:
   - area: BCs / S.Kom.
     institution: Universitas Ary Ginanjar
-    date_start: 2022
-    date_end: 2026
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+    date_start: 2022-09-01
+    date_end: 2026-09-01
+    # summary: |
+    #   Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    # button:
+    #   text: 'Read Thesis'
+    #   url: 'https://example.com'
 work:
   - position: System Engineer
     company_name: Meta Cyber Brotherindo
