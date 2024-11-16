@@ -67,13 +67,12 @@ sections:
           # Text color (true=light, false=dark, or remove for the dynamic theme color).
           text_color_light: true
   - block: collection
-    id: powerprime
     content:
       title: Contents
       filters:
         folders:
           - teaching
-        featured_only: true
+        featured_only: false
     design:
       view: article-grid
       columns: 2
