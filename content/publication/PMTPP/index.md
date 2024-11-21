@@ -29,7 +29,6 @@ tags:
 
 featured: true
 
-links:
 # - name: Custom Link
 #   url: http://example.org
 url_pdf: https://drive.google.com/file/d/1lgUuqnOQIuuwgmF8D7OueXPKZSskiCsz/view?usp=sharing
@@ -37,7 +36,7 @@ url_pdf: https://drive.google.com/file/d/1lgUuqnOQIuuwgmF8D7OueXPKZSskiCsz/view?
 # url_dataset: '#'
 # url_poster: '#'
 # url_project: '#'
-url_slides: https://drive.google.com/file/d/1wnMRiwwFwxYO9Xt7rcRU1xyEWBo972rd/view?usp=sharing
+url_slides: 'https://drive.google.com/file/d/1wnMRiwwFwxYO9Xt7rcRU1xyEWBo972rd/view?usp=sharing'
 # url_source: '#'
 # url_video: '#'
 
