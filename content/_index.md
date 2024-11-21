@@ -15,9 +15,9 @@ sections:
       username: admin
       text: ""
       # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Download CV
-        url: uploads/resume.pdf    
+      # button:
+      #   text: Download CV
+      #   url: uploads/resume.pdf    
     design:
       background:
         image:
@@ -67,6 +67,7 @@ sections:
           # Text color (true=light, false=dark, or remove for the dynamic theme color).
           text_color_light: true
   - block: collection
+    id: contents
     content:
       title: Contents
       filters:
