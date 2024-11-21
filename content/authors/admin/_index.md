@@ -117,12 +117,21 @@ skills:
         description: ''
         percent: 40
         icon: circle-stack
+      - name: Cryptography
+        percent: 60
+        icon: https://cdn-icons-png.flaticon.com/512/8948/8948700.png
+      - name: Reverse Engineering
+        percent: 70
+        icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVaq0tvKUf1TZjVcUoOnqmLRTRVfY_P_HY5A&s
+      - name: Digital Forensics
+        percent: 80
+        icon: https://www.svgrepo.com/show/127033/magnifying-glass.svg
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
       - name: IoT
-        description: ''
+        description: 'Making tools related to Cybersecurity'
         percent: 80
       #  icon: person-simple-walk
       - name: Warhammer
