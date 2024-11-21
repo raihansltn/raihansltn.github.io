@@ -63,13 +63,13 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-# Pendahuluan
+### Pendahuluan
 Paru-paru memiliki peranan penting bagi tubuh, yakni sebagai sistem pernapasan yang memenuhi kebutuhan oksigen dalam tubuh. Paru-paru memiliki fungsi sebagai tempat bertukarnya oksigen dan karbondioksida dari darah. Jika paru-paru tidak berfungsi dengan baik, maka sistem pernapasan akan terganggu, yang mana dapat menyebabkan gangguan kesehatan dan timbulnya suatu penyakit. Salah satu penyebab gangguan kesehatan pada paru-paru adalah kebiasaan merokok.
 Merokok memiliki dampak yang bahaya bagi tubuh. Merokok dikenal sebagai penyebab utama berbagai penyakit paru-paru. Rokok mengandung 7 ribu bahan kimia, dan beberapa diantaranya dapat memicu kanker. Merokok menyebabkan kerusakan pada paru-paru dan berbagai masalah paru-paru yang serius, seperti: kanker paru-paru, pneumonia, penyakit paru-paru obstruktif kronis (PPOK) yakni kesulitan bernapas yang biasanya terjadi setelah bertahun-tahun merokok, dan berbagai penyakit paru lainnya.
 Tidak hanya perokok aktif, mereka yang terkena asap rokok dari perokok lain atau biasa disebut perokok pasif, juga berisiko mengalami gangguan kesehatan pada paru-paru, termasuk penyakit paru-paru dan kanker paru-paru. Melansir dari World Health Organization (WHO), pada Pernyataan: Hari Tanpa Tembakau Sedunia 2020 menyatakan, setiap tahun sekitar 225.700 orang di Indonesia meninggal akibat merokok atau penyakit lain yang berkaitan dengan tembakau.
 Oleh sebab itu, perlu kiranya suatu pengklasifikasian pengaruh merokok secara aktif dan pasif terhadap risiko terjangkit penyakit paru-paru. Pada penelitian ini digunakan algoritma Naïve Bayes, karena telah terbukti sebagai salah satu pendekatan yang efektif dalam memodelkan hubungan antara variabel paparan rokok dan risiko terkena penyakit paru-paru. Jumlah dataset yang digunakan berjumlah 30.000 data dengan tingkat akurasi mencapai 93,40%. Dengan pengklasifikasian ini, diharapkan mampu membantu mengedukasi perokok aktif akan bahaya merokok untuk keseharan paru-paru dan segera berhenti merokok.
 
-# Landasan Teori
+### Landasan Teori
 Algoritma adalah metode atau langkah yang direncanakan secara tersusun dan berurutan untuk menyelesaikan atau memecahkan permasalahan dengan sebuah instruksi atau kegiatan.
 Dalam statistika, Naïve Bayes classifiers adalah bagian linier dari “klasifikasi probabilistik” yang mengasumsikan bahwa fitur-fitur tersebut saling independen secara bersyarat, dengan asumsi kelas target. Keuntungan penggunaannya adalah bahwa metode ini hanya membutuhkan jumlah data training yang sedikit untuk menentukan estimasi parameter yang diperlukan dalam proses pengklasifikasian. Karena yang diasumsikan sebagai variable independent, maka hanya varians dari suatu variable dalam sebuah kelas yang dibutuhkan untuk menentukan klasifikasi, bukan keseluruhan dari matriks kovarians.
 Accuracy adalah metrik yang mengukur seberapa sering sebuah model machine learning memprediksi hasil dengan benar. Akurasi dapat dihitung dengan membagi jumlah prediksi yang benar dengan total jumlah prediksi.
