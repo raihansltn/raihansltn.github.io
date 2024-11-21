@@ -133,6 +133,9 @@ skills:
         description: ''
         percent: 80
       #  icon: camera
+      - name: Literature
+        description: 'Reading books and writing poems'
+        percent: 90
 
 languages:
   - name: English
