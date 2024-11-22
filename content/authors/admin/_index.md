@@ -38,7 +38,7 @@ profiles:
   - icon: brands/instagram
     url: https://www.instagram.com/raihansltn
   - icon: brands/github
-    url: https://github.com/Toughrebel4041
+    url: https://github.com/raihansltn
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/raihansltn
   - icon: academicons/google-scholar
@@ -119,13 +119,13 @@ skills:
         icon: circle-stack
       - name: Cryptography
         percent: 60
-        icon: https://cdn-icons-png.flaticon.com/512/8948/8948700.png
+        icon: custom/CR
       - name: Reverse Engineering
         percent: 70
-        icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVaq0tvKUf1TZjVcUoOnqmLRTRVfY_P_HY5A&s
+        icon: custom/SE
       - name: Digital Forensics
         percent: 80
-        icon: https://www.svgrepo.com/show/127033/magnifying-glass.svg
+        icon: custom/DF
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -160,7 +160,7 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: IBM Cybersecurity Analyst Certificate
-    url: https://coursera.org/verify/professional-cert/AZG54QE7NQL8
+    url: custom/ibm
     date: '2023-08-04'
     awarder: IBM
     icon: ibm
@@ -169,7 +169,7 @@ awards:
   - title: Alibaba Cloud Certified Developers
     date: '2023-10-20'
     awarder: Alibaba Cloud
-    icon: alibabacloud
+    icon: custom/ac
 ---
 
 ## About Me
