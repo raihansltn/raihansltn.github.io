@@ -1,0 +1,14 @@
+/* Hugo Blox color theme: BLACK */
+:root {
+    --color-primary-50: 245 245 245; /* Lightest shade of black (almost gray) */
+    --color-primary-100: 230 230 230; /* Very light gray */
+    --color-primary-200: 200 200 200; /* Light gray */
+    --color-primary-300: 150 150 150; /* Medium gray */
+    --color-primary-400: 100 100 100; /* Darker gray */
+    --color-primary-500: 50 50 50;   /* Dark gray */
+    --color-primary-600: 40 40 40;   /* Very dark gray */
+    --color-primary-700: 30 30 30;   /* Almost black */
+    --color-primary-800: 20 20 20;   /* Nearly black */
+    --color-primary-900: 10 10 10;   /* Black with a hint of gray */
+    --color-primary-950: 0 0 0;      /* Pure black */
+  }
