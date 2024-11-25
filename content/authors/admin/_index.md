@@ -160,10 +160,10 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: IBM Cybersecurity Analyst Certificate
-    url: custom/ibm
+    url: https://www.coursera.org/account/accomplishments/professional-cert/AZG54QE7NQL8
     date: '2023-08-04'
     awarder: IBM
-    icon: ibm
+    icon: custom/ibm
     summary: |
       In this Professional Certificate, learners developed and honed essential knowledge and skills to enter today's dynamic cybersecurity workforce. Learners developed knowledge of cybersecurity analyst tools including data protection; endpoint protection; SIEM; and systems and network fundamentals; acquired knowledge around key compliance and threat intelligence topics important in today's cybersecurity landscape; gained skills for incident responses and forensics. The learner's knowledge and skills were tested through multiple assessments throughout the courses, a real-world breach case study and several hands on virtual labs. The learner also achieved a passing score on a final assessment course covering all content from the previous seven courses.
   - title: Alibaba Cloud Certified Developers
