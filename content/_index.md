@@ -19,6 +19,7 @@ sections:
       #   text: Download CV
       #   url: uploads/resume.pdf    
     design:
+      color: white
       background:
         image:
           # Name of image in `assets/media/`.
@@ -47,6 +48,7 @@ sections:
         I’m always excited to collaborate with like-minded individuals and organizations to solve complex challenges and drive innovation. Let’s create something impactful together!
     design:
       columns: '1'
+      color: white
       design:
       view: article-grid
       columns: 2
@@ -113,6 +115,7 @@ sections:
     design:
       view: article-grid
       columns: 1
+      color: white
       background:
         image:
           # Name of image in `assets/media/`.
