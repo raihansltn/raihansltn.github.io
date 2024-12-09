@@ -8,9 +8,6 @@ appearance:
   mode: dark
   color: white
 
-  mode: light
-  color: blue
-
 # SEO
 marketing:
   seo:
