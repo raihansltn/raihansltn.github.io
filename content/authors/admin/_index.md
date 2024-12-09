@@ -33,6 +33,9 @@ profiles:
   - icon: at-symbol
     url: 'mailto:raihansultanpb@gmail.com'
     label: E-mail Me
+  - icon: custom/medium
+    label: Read my writings
+    url: https://medium.com/@raihansltn
 #  - icon: brands/x
 #    url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
