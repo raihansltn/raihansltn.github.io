@@ -81,7 +81,7 @@ work:
     company_url: https://metacyber.co.id/
     company_logo: https://metacyber.co.id/wp-content/uploads/2023/07/cropped-Screenshot_29-removebg-preview-385x187.png
     date_start: 2023-12-11
-    date_end: ''
+    date_end: 2024-12-11
     summary: |2-
       Responsibilities include:
       - Managed technical engineering across multiple cybersecurity platforms: Delivered solutions for diverse clients by implementing and maintaining platforms like SolarWinds and Splunk for IT monitoring, SentinelOne for endpoint protection, and Tenable for comprehensive vulnerability assessments. Ensured seamless integration and optimal performance for each platform.
@@ -151,7 +151,7 @@ skills:
 
 languages:
   - name: English
-    percent: 95
+    percent: 90
   - name: German
     percent: 55
   - name: Italian
