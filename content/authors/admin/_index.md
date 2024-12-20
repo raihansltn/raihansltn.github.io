@@ -176,10 +176,10 @@ awards:
   - title: Certified in Cybersecurity (CC)
     url: https://www.coursera.org/account/accomplishments/professional-cert/AZG54QE7NQL8
     date: '2023-10-19'
-    awarder: IBM
+    awarder: (ISC2)
     icon: custom/Isc2
 ---
 
 ## About Me
 
-Hi there, I'm Raihan! An undergraduate Computer Science student at ESQ Business School (Universitas Ary Ginanjar), diving deep into Cybersecurity especially Network Security (My career path), I'm also a Security Researcher, where you can find me on Bugcrowd and HackerOne. Beyond that, I'm exploring Web Development, Data Mining, AI Engineering, and Software Engineering. I’m a huge fan of IoT and love building electronic projects that tie into cybersecurity. When I’m not tinkering with circuits, you’ll probably find me writing playing CTF and writing writeups, sharing philosophical thoughts on Medium, or diving into research (mostly AI-related for now). I enjoy learning new things, thrive in fast-paced environments, and have a knack for public speaking and working with teams. Welcome to my little corner of the internet!
+Hi there, I'm Raihan! An undergraduate Computer Science student at Universitas Ary Ginanjar, diving deep into Cybersecurity especially Network Security (My career path), I'm also a Security Researcher, where you can find me on Bugcrowd and HackerOne. Beyond that, I'm exploring Web Development, Data Mining, AI Engineering, and Software Engineering. I’m a huge fan of IoT and love building electronic projects that tie into cybersecurity. When I’m not tinkering with circuits, you’ll probably find me writing playing CTF and writing writeups, sharing philosophical thoughts on Medium, or diving into research (mostly AI-related for now). I enjoy learning new things, thrive in fast-paced environments, and have a knack for public speaking and working with teams. Welcome to my little corner of the internet!
