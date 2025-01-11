@@ -1,6 +1,6 @@
 ---
 title: NetPulse
-date: 2024-7-1
+date: 2024-07-01
 external_link: https://github.com/raihansltn/NetPulse
 tags:
   - Hugo

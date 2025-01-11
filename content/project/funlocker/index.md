@@ -1,6 +1,6 @@
 ---
 title: FunLocker
-date: 2022-12-1
+date: 2024-08-01
 external_link: https://github.com/raihansltn/FunLocker
 tags:
   - Hugo

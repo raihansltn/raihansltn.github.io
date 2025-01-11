@@ -1,6 +1,6 @@
 ---
 title: Jaluma
-date: 2022-12-1
+date: 2022-12-01
 external_link: https://jalumaproject.web.app/
 tags:
   - Hugo
