@@ -75,6 +75,10 @@ education:
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
+  - area: Computer Science (Non-Degree)
+    institution: University of Chicago
+    date_start: 2024-01-01
+    date_end: 2024-06-01
 work:
   - position: System Engineer
     company_name: Meta Cyber Brotherindo

@@ -3,7 +3,7 @@ title: "Prediksi Pengaruh Merokok Secara Aktif dan Pasif Terhadap Risiko Terjang
 authors:
 - admin
 date: "2024-09-11T00:00:00Z"
-doi: ""
+doi: "10.13140/RG.2.2.28901.51686"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-09-11T00:00:00Z"
@@ -31,7 +31,7 @@ featured: true
 
 # - name: Custom Link
 #   url: http://example.org
-url_pdf: https://drive.google.com/file/d/1lgUuqnOQIuuwgmF8D7OueXPKZSskiCsz/view?usp=sharing
+url_pdf: https://www.researchgate.net/publication/387754890_Prediksi_Pengaruh_Merokok_Secara_Aktif_dan_Pasif_Terhadap_Risiko_Terjangkit_Penyakit_Paru-Paru_Menggunakan_RapidMiner_dan_Algoritma_Naive_Bayes?utm_source=twitter&rgutm_meta1=eHNsLVE3cHdBbFh4TVB4enFCZW5ZVEVkWnRsQnpBa3R4QzcxL2NQMytzaktDMTRXUEVSR3hJOUZjN3RscWFQTCtvWWh2cUFHdHN3cWpSVTJmRE5razh6dFNTST0%3D 
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
