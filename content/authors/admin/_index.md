@@ -186,8 +186,6 @@ awards:
 
 ## About Me
 
-Hi there, I'm Raihan! An undergraduate Computer Science student at Universitas Ary Ginanjar, diving deep into Cybersecurity especially Network Security (My career path), I'm also a Security Researcher, where you can find me on Bugcrowd and HackerOne. 
-
-I'm a dedicated Security practitioner and Junior Researcher with a passion for exploring diverse and impactful fields. In short, my research interests are to discover and understand critical security issues, and then to design and develop innovative solutions to address these issues.
+Hi there, I'm Raihan! An undergraduate Computer Science student at Universitas Ary Ginanjar. I'm a dedicated Security practitioner and Junior Researcher with a passion for exploring diverse and impactful fields. In short, my research interests are to discover and understand critical security issues, and then to design and develop innovative solutions to address these issues.
 
 Beyond that, I'm exploring Web Development, Data Mining, AI Engineering, and Software Engineering. I’m a huge fan of IoT and love building electronic projects that tie into cybersecurity. When I’m not tinkering with circuits, you’ll probably find me writing playing CTF and writing writeups, sharing philosophical thoughts on Medium, or diving into research (mostly AI-related for now). I enjoy learning new things, thrive in fast-paced environments, and have a knack for public speaking and working with teams. Welcome to my little corner of the internet!
