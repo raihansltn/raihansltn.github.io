@@ -3,7 +3,7 @@
 title: Raihan Sultan Pasha Basuki.
 
 # Name pronunciation (optional)
-name_pronunciation: Raihan/Sultan
+name_pronunciation: rai-han/sool-taa-hn
 
 # Full name (for SEO)
 first_name: Raihan
@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
       
 # Role/position/tagline
-role: Cybersecurity Practitioner / Researcher
+role: Cybersecurity Practitioner / Junior Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta Cyber Brotherindo
-    url: https://metacyber.co.id/
+  - name: CS Dept. UAG
+    url: https://uag.ac.id/index.php/ilmu-komputer
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -38,8 +38,8 @@ profiles:
     url: https://medium.com/@raihansltn
 #  - icon: brands/x
 #    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/raihansltn
+  # - icon: brands/instagram
+  #   url: https://www.instagram.com/raihansltn
   - icon: brands/github
     url: https://github.com/raihansltn
   - icon: brands/linkedin
@@ -48,25 +48,23 @@ profiles:
     url: https://scholar.google.com/citations?hl=en&user=jwB4qBkAAAAJ&view_op=list_works&gmla=AL3_zijqw0rHTAl2lH8F9ZFq1QaxIuQkHzMEI_mY8P4iNdqh3ylq1dWelPYnv7JIVG5UOUiqmPpri48dSZDfmNOGUw_Ntdd42o39DDfXa6SgyJJSrkEe93QcH6_lLB8rEf1LPD2tdpA9ts3dO0RZ3z0&iaan=Raihan+Sultan
   - icon: academicons/orcid
     url: https://orcid.org/0009-0004-0010-4296
-  - icon: custom/bugcrowd
-    url: https://bugcrowd.com/Toughrebel
-  - icon: custom/hackerone
-    url: https://hackerone.com/toughrebel4041
-  - icon: custom/thm
-    url: https://tryhackme.com/p/Toughrebel4041
-  - icon: custom/htb
-    url: https://app.hackthebox.com/profile/1694907
+  # - icon: custom/bugcrowd
+  #   url: https://bugcrowd.com/Toughrebel
+  # - icon: custom/hackerone
+  #   url: https://hackerone.com/toughrebel4041
+  # - icon: custom/thm
+  #   url: https://tryhackme.com/p/Toughrebel4041
+  # - icon: custom/htb
+  #   url: https://app.hackthebox.com/profile/1694907
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Cybersecurity
+  - Network & System Security
   - Cryptography
+  - Vulnerability Detection
   - Computer Architecture
-  - Compiling
-  - Network
 
 education:
-  - area: BCs / S.Kom.
+  - area: Computer Science (BCs / S.Kom.)
     institution: Universitas Ary Ginanjar
     date_start: 2022-09-01
     date_end: 2026-09-01
@@ -157,7 +155,7 @@ languages:
   - name: English
     percent: 90
   - name: German
-    percent: 55
+    percent: 40
   - name: Italian
     percent: 15
 

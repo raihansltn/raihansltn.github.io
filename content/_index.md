@@ -15,9 +15,9 @@ sections:
       username: admin
       text: ""
       # Show a call-to-action button under your biography? (optional)
-      # button:
-      #   text: Download CV
-      #   url: uploads/resume.pdf    
+      button:
+        text: Download CV
+        url: uploads/resume.pdf    
     design:
       color: white
       background:
@@ -44,7 +44,7 @@ sections:
         I'm a dedicated Junior Researcher with a passion for exploring diverse and impactful fields. In short, my research interests are to discover and understand critical security issues, and then to design and develop innovative solutions to address these issues.
         
         To be precise, my research areas and interests:
-        - Privacy Compliance and Encforcement
+        - Privacy Compliance and Enforcement
         - Secure ML Systems
         - Cyber Threat Intelligence
         - NLP/ML-assisted Vulnerability Discovery
