@@ -33,9 +33,9 @@ profiles:
   - icon: at-symbol
     url: 'mailto:raihansultanpb@gmail.com'
     label: E-mail Me
-  - icon: custom/medium
-    label: Read my writings
-    url: https://medium.com/@raihansltn
+  - icon: custom/researchgate
+    url: https://www.researchgate.net/profile/Raihan-Basuki-3
+    label: ResearchGate
 #  - icon: brands/x
 #    url: https://twitter.com/GetResearchDev
   # - icon: brands/instagram
@@ -48,6 +48,9 @@ profiles:
     url: https://scholar.google.com/citations?hl=en&user=jwB4qBkAAAAJ&view_op=list_works&gmla=AL3_zijqw0rHTAl2lH8F9ZFq1QaxIuQkHzMEI_mY8P4iNdqh3ylq1dWelPYnv7JIVG5UOUiqmPpri48dSZDfmNOGUw_Ntdd42o39DDfXa6SgyJJSrkEe93QcH6_lLB8rEf1LPD2tdpA9ts3dO0RZ3z0&iaan=Raihan+Sultan
   - icon: academicons/orcid
     url: https://orcid.org/0009-0004-0010-4296
+  - icon: custom/medium
+    label: Read my writings
+    url: https://medium.com/@raihansltn
   # - icon: custom/bugcrowd
   #   url: https://bugcrowd.com/Toughrebel
   # - icon: custom/hackerone
