@@ -3,7 +3,7 @@
 title: Raihan Sultan Pasha Basuki.
 
 # Name pronunciation (optional)
-name_pronunciation: rai-han/sool-taa-hn
+name_pronunciation:  RYE-hahn
 
 # Full name (for SEO)
 first_name: Raihan
