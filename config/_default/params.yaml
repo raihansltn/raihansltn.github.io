@@ -14,7 +14,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
+    description: 'Hi there, I’m Raihan! An undergraduate Computer Science student at Universitas Ary Ginanjar. I’m a dedicated Security practitioner and Junior Researcher with a passion for exploring diverse and impactful fields. In short, my research interests are to discover and understand critical security issues, and then to design and develop innovative solutions to address these issues.'
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
@@ -40,11 +40,11 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Raihan Sultan. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
-      share_alike: true
+      share_alike: false
       allow_commercial: false
 
 # Localization
