@@ -16,6 +16,9 @@ sections:
       text: ""
       # Show a call-to-action button under your biography? (optional)
       button:
+        text: My Academia CV
+        url: uploads/resume2.pdf 
+      button:
         text: My Professional CV
         url: uploads/resume.pdf    
     design:
@@ -47,7 +50,12 @@ sections:
         - Privacy Compliance and Enforcement
         - Secure ML Systems
         - Cyber Threat Intelligence
-        - NLP/ML-assisted Vulnerability Discovery
+        - NLP/ML-assisted Anomaly Detection and Vulnerability Discovery
+        - side-channel attacks on wireless networks
+        - log and traffic analysis for attack detection and threat intelligence
+        - DDoS mitigation using SDN
+        - firmware security and reverse engineering
+        - anti-forensic technique and mitigation
         
         My work itself, spans across cybersecurity, where I specialize in uncovering and analyzing security flaws and bugs to strengthen systems against vulnerabilities. In addition, I delve deeply into the realms of artificial intelligence and machine learning, aiming to unlock innovative applications and refine existing methodologies.
 
