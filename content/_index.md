@@ -19,7 +19,7 @@ sections:
       button:
         text: My Professional CV
         url: uploads/resume.pdf
-      button:
+      button1:
         text: My Academia CV
         url: uploads/resume2.pdf     
     design:
