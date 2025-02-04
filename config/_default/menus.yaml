@@ -28,3 +28,6 @@ main:
   - name: Publications
     url: publication/
     weight: 40
+  - name: CV
+    url: CV/
+    weight: 50
