@@ -29,5 +29,5 @@ main:
     url: publication/
     weight: 40
   - name: CV
-    url: CV/
+    url: cv/
     weight: 50

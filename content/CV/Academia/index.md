@@ -1,6 +1,7 @@
 ---
 title: Academia CV
-external_link: uploads/resume2.pdf
+date: 2025-02-04
+external_link: https://raihansultan.tech/uploads/resume1.pdf
 tags:
   - CV
 ---

@@ -1,6 +1,7 @@
 ---
 title: Professional CV
-external_link: uploads/resume.pdf
+date: 2025-01-25
+external_link: https://raihansultan.tech/uploads/resume.pdf
 tags:
   - CV
 ---

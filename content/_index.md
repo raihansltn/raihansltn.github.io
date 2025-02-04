@@ -15,10 +15,9 @@ sections:
       username: admin
       text: ""
       # Show a call-to-action button under your biography? (optional)
-      
       button:
         text: My CV's
-        url: CV/
+        url: cv/
     design:
       color: white
       background:
