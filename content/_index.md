@@ -119,20 +119,20 @@ sections:
     design:
       view: citation
   - block: collection
-    id: talks
+    id: project
     content:
-      title: Recent & Upcoming Talks
+      title: Projects
       filters:
         folders:
-          - event
+          - project
     design:
       view: article-grid
-      columns: 1
+      columns: 2
       color: white
       background:
         image:
           # Name of image in `assets/media/`.
-          filename: background2.jpg
+          filename: background3.jpg
           # Apply image filters?
           filters:
             # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
@@ -175,20 +175,20 @@ sections:
       spacing:
         padding: [0, 0, 0, 0]
   - block: collection
-    id: project
+    id: talks
     content:
-      title: Projects
+      title: Recent & Upcoming Talks
       filters:
         folders:
-          - project
+          - event
     design:
       view: article-grid
-      columns: 2
+      columns: 1
       color: white
       background:
         image:
           # Name of image in `assets/media/`.
-          filename: background3.jpg
+          filename: background2.jpg
           # Apply image filters?
           filters:
             # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
