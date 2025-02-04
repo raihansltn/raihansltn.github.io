@@ -16,12 +16,9 @@ sections:
       text: ""
       # Show a call-to-action button under your biography? (optional)
       
-      # button:
-      #   text: My Professional CV
-      #   url: uploads/resume.pdf
-      # button1:
-      #   text: My Academia CV
-      #   url: uploads/resume2.pdf     
+      button:
+        text: My CV's
+        url: CV/
     design:
       color: white
       background:
