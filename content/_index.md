@@ -54,9 +54,9 @@ sections:
         - firmware security and reverse engineering
         - anti-forensic technique and mitigation
         
-        My work itself, spans across cybersecurity, where I specialize in uncovering and analyzing security flaws and bugs to strengthen systems against vulnerabilities. In addition, I delve deeply into the realms of artificial intelligence and machine learning, aiming to unlock innovative applications and refine existing methodologies..
+        My work itself, spans across cybersecurity, where I specialize in uncovering and analyzing security flaws and bugs to strengthen systems against vulnerabilities. In addition, I delve deeply into the realms of artificial intelligence and machine learning, aiming to unlock innovative applications and refine existing methodologies.
 
-        I’m always excited to collaborate with like-minded individuals and organizations to solve complex challenges and drive innovation. Let’s create something impactful together!
+        I’m always excited to collaborate with like-minded individuals and organizations to solve complex challenges and drive innovation. Please reach me at raihansultanpb@gmail.com for a research collaboration!
     design:
       columns: '1'
       color: white
