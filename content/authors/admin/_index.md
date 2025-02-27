@@ -24,7 +24,7 @@ role: Cybersecurity Practitioner / Junior Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: CS Dept. UAG
+  - name: AIRDU Research Group, CS Dept. UAG
     url: https://uag.ac.id/index.php/ilmu-komputer
 
 # Social network links
