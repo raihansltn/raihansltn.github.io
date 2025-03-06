@@ -21,7 +21,7 @@ But why exactly is Python slower? Is it just because it’s an interpreted langu
 
 Watch a fully explanation here.
 
-{{< youtube bIzWk98DHGE&t >}}
+{{< youtube bIzWk98DHGE >}}
 
 ## Detailed Explanation on My Medium!
 
