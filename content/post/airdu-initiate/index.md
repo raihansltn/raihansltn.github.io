@@ -22,4 +22,4 @@ tags:
 
 ## Overview
 
-On Thursday, March 14th, 2025. I met with my Research Group to discuss next project. My Research Group, AIRDU (Artificial Intelligence Research and Development Unit) is one of two research groups of [Computer Science Department, Universitas Ary Ginanjar](https://uag.ac.id/ilmu-komputer) (UAG). During that meeting, we initiated 6 different project plans, and agree to start with the Idea of Visual Recognition and classification model application in a food platform. Further details will be published as the project on-going, the project itself will start on March 20th, 2025.
+On Thursday, March 13th, 2025. I met with my Research Group to discuss next project. My Research Group, AIRDU (Artificial Intelligence Research and Development Unit) is one of two research groups of [Computer Science Department, Universitas Ary Ginanjar](https://uag.ac.id/ilmu-komputer) (UAG). During that meeting, we initiated 6 different project plans, and agree to start with the Idea of Visual Recognition and classification model application in a food platform. Further details will be published as the project on-going, the project itself will start on March 20th, 2025.
