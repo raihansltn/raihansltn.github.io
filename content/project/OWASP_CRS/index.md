@@ -1,7 +1,7 @@
 ---
 title: OWASP Core Rule Set (CRS)
 date: 2025-01-20
-external_link: https://github.com/coreruleset/coreruleset
+external_link: https://github.com/raihansltn/coreruleset
 tags:
   - CRS
   - OWASP
