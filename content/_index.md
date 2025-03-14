@@ -163,7 +163,7 @@ sections:
         exclude_past: false
         publication_type: ""
       # Choose how many pages you would like to offset by
-      offset: 5
+      offset: 0
       # Page order: descending (desc) or ascending (asc) date.
       order: desc
     design:
@@ -171,7 +171,7 @@ sections:
       view: date-title-summary
       # Reduce spacing
       spacing:
-        padding: [0, 0, 0, 0]
+        padding: [10, 10, 0, 0]
   - block: collection
     id: talks
     content:
