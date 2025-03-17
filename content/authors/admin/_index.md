@@ -38,8 +38,8 @@ profiles:
     label: ResearchGate
 #  - icon: brands/x
 #    url: https://twitter.com/GetResearchDev
-  # - icon: brands/instagram
-  #   url: https://www.instagram.com/raihansltn
+  - icon: brands/instagram
+    url: https://www.instagram.com/raihansltn
   - icon: brands/github
     url: https://github.com/raihansltn
   - icon: brands/linkedin
@@ -60,10 +60,11 @@ profiles:
   # - icon: custom/htb
   #   url: https://app.hackthebox.com/profile/1694907
 interests:
-  - Artificial Intelligence
+  - AI and ML (Esp. for Security)
   - Network & System Security
-  - Cryptography
-  - Vulnerability Detection
+  - Firmware Security & Reverse Engineering
+  - Cyber Threat Intelligence
+  - Vulnerability Detection (IDS/IPS)
   - Computer Architecture
 
 education:
