@@ -3,7 +3,7 @@
 title: Raihan Sultan Pasha Basuki.
 
 # Name pronunciation (optional)
-name_pronunciation:  RYE-hahn
+name_pronunciation:
 
 # Full name (for SEO)
 first_name: Raihan
@@ -163,7 +163,7 @@ languages:
   - name: German
     percent: 40
   - name: Italian
-    percent: 15
+    percent: 30
 
 # Awards.
 #   Add/remove as many awards below as you like.

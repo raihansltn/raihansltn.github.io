@@ -126,7 +126,6 @@ sections:
     design:
       view: article-grid
       columns: 2
-      count: 4
       color: white
       background:
         image:
