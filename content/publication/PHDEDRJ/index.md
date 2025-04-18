@@ -1,5 +1,5 @@
 ---
-title: "Pembangunan Model Prediksi Depresi Pelajar Berdasarkan Faktor Lingkungan dan Akademis"
+title: "Pendekatan HCI dalam Evaluasi dan Redesain Aplikasi Jaklitera untuk Peningkatan UX"
 authors:
 - admin
 date: "2025-01-05T00:00:00Z"
