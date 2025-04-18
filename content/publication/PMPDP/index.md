@@ -34,8 +34,8 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 url_pdf: https://drive.google.com/file/d/1Uxwt_-na1tQLcXgAd26lbDazAwWqiAWZ/view?usp=drive_link 
-url_code: 'https://www.kaggle.com/datasets/hopesb/student-depression-dataset'
-# url_dataset: '#'
+url_code: 'https://colab.research.google.com/drive/1nig-k6GaFxZmZ3z5H3TMQUYVHHabmo2t?usp=sharing'
+url_dataset: 'https://www.kaggle.com/datasets/hopesb/student-depression-dataset'
 url_poster: 'https://drive.google.com/file/d/1cLbrZFJsvsupWercSvp-MP1q5Mo8P1Wl/view?usp=drive_link'
 url_project: 'https://colab.research.google.com/drive/1nig-k6GaFxZmZ3z5H3TMQUYVHHabmo2t?usp=sharing'
 url_slides: 'https://drive.google.com/file/d/1uXSLeFz0ETw_PUS0df8mu978OAnPyWwK/view?usp=drive_link'
