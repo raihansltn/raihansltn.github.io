@@ -26,6 +26,8 @@ role: Cybersecurity Practitioner / Junior Researcher
 organizations:
   - name: AIRDU Research Group, CS Dept. UAG
     url: https://uag.ac.id/index.php/ilmu-komputer
+  - name: ESQ Group
+    url: https://esqgroup.co.id/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -65,7 +67,6 @@ interests:
   - Firmware Security & Reverse Engineering
   - Cyber Threat Intelligence
   - Vulnerability Detection (IDS/IPS)
-  - Computer Architecture
 
 education:
   - area: Computer Science (BCs / S.Kom.)
@@ -191,5 +192,7 @@ awards:
 ## About Me
 
 Hi there, I'm Raihan! An undergraduate Computer Science student at Universitas Ary Ginanjar. I'm a dedicated Security practitioner and Junior Researcher with a passion for exploring diverse and impactful fields. In short, my research interests are to discover and understand critical security issues, and then to design and develop innovative solutions to address these issues.
+
+I'm currently conducting research for ESQ Group, in the RnD of multiple Machine Learning models, and also AIRDU Research Group of Department of Computer Science, Universitas Ary Ginanjar.
 
 Beyond that, I'm exploring Web Development, Data Mining, AI Engineering, and Software Engineering. I’m a huge fan of IoT and love building electronic projects that tie into cybersecurity. When I’m not tinkering with circuits, you’ll probably find me playing CTF and writing writeups, sharing philosophical thoughts on Medium, or diving into research (mostly AI-related for now). I enjoy learning new things, thrive in fast-paced environments, and have a knack for public speaking and working with teams. Welcome to my little corner of the internet!
