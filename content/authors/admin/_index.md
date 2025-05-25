@@ -35,6 +35,9 @@ profiles:
   - icon: at-symbol
     url: 'mailto:raihansultanpb@gmail.com'
     label: E-mail Me
+  - icon: custom/kaggle
+    url: https://www.kaggle.com/raihansultan
+    label: E-mail Me
   - icon: custom/researchgate
     url: https://www.researchgate.net/profile/Raihan-Basuki-3
     label: ResearchGate
