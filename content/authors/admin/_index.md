@@ -24,8 +24,8 @@ role: Cybersecurity Practitioner / Junior Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: AIRDU Research Group, CS Dept. UAG
-    url: https://uag.ac.id/index.php/ilmu-komputer
+  - name: VT Security and Intelligence Lab.
+  #  url: https://uag.ac.id/index.php/ilmu-komputer
   - name: ESQ Group
     url: https://esqgroup.co.id/
 
@@ -196,6 +196,8 @@ awards:
 
 Hi there, I'm Raihan! An undergraduate Computer Science student at Universitas Ary Ginanjar. I'm a dedicated Security practitioner and Junior Researcher with a passion for exploring diverse and impactful fields.
 
-I'm currently conducting research for ESQ Group, in the RnD of multiple Machine Learning models, and also (on hiatus) AIRDU Research Group of Department of Computer Science, Universitas Ary Ginanjar.
+I'm currently conducting research as a remote research assistant for Prof. Peng Gao's Virginia Tech Security and Intelligence Laboratory, working on Kernel-Level Security for Distributed Systems using eBPF and Provenance.
+
+I also conduct research for ESQ Group, in the RnD of multiple Machine Learning models, and also (on hiatus) AIRDU Research Group of Department of Computer Science, Universitas Ary Ginanjar.
 
 Beyond that, I’m a huge fan of IoT and love building electronic projects that tie into cybersecurity. When I’m not tinkering with circuits, you’ll probably find me playing CTF and making writeups, or writing and sharing philosophical thoughts on Medium. I enjoy learning new things, thrive in fast-paced environments, and have a knack for public speaking and working with teams. Welcome to my little corner of the internet!
