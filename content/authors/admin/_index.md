@@ -200,4 +200,4 @@ I'm currently conducting research as a remote research assistant for Prof. Peng 
 
 I also conduct research for ESQ Group, in the RnD of multiple Machine Learning models, and also (on hiatus) AIRDU Research Group of Department of Computer Science, Universitas Ary Ginanjar.
 
-Beyond that, I’m a huge fan of IoT and love building electronic projects that tie into cybersecurity. When I’m not tinkering with circuits, you’ll probably find me playing CTF and making writeups, or writing and sharing philosophical thoughts on Medium. I enjoy learning new things, thrive in fast-paced environments, and have a knack for public speaking and working with teams. Welcome to my little corner of the internet!
+For UAG Computer Science students who are interested in contributing to the AIRDU Research Group, please reach out to me first during my offline office hours or via email at raihansultan.pashabasuki[at]students[dot]esqbs[dot]ac[dot]id, so I can assist in assigning you to our research activities.
