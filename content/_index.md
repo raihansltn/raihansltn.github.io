@@ -23,7 +23,7 @@ sections:
       background:
         image:
           # Name of image in `assets/media/`.
-          filename: background.jpg
+          # filename: background.jpg
           # Apply image filters?
           filters:
             # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
@@ -65,7 +65,7 @@ sections:
       background:
         image:
           # Name of image in `assets/media/`.
-          filename: cyber.jpg
+          # filename: cyber.jpg
           # Apply image filters?
           filters:
             # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
@@ -92,7 +92,7 @@ sections:
       background:
         image:
           # Name of image in `assets/media/`.
-          filename: background1.jpg
+          # filename: background1.jpg
           # Apply image filters?
           filters:
             # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
@@ -129,7 +129,7 @@ sections:
       background:
         image:
           # Name of image in `assets/media/`.
-          filename: background3.jpg
+          # filename: background3.jpg
           # Apply image filters?
           filters:
             # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
@@ -185,7 +185,7 @@ sections:
       background:
         image:
           # Name of image in `assets/media/`.
-          filename: background2.jpg
+          # filename: background2.jpg
           # Apply image filters?
           filters:
             # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
