@@ -196,7 +196,7 @@ awards:
 
 Hi there, I'm Raihan! An undergraduate Computer Science student at Universitas Ary Ginanjar. I'm a dedicated Security practitioner and Junior Researcher with a passion for exploring diverse and impactful fields.
 
-I'm currently conducting research as a remote research assistant for Prof. Peng Gao's Virginia Tech Security and Intelligence Laboratory, working on Kernel-Level Security for Distributed Systems using eBPF and Provenance.
+I'm currently conducting research as a remote research intern for Prof. Peng Gao's Virginia Tech Security and Intelligence Laboratory, working on Kernel-Level Security for Distributed Systems using eBPF and Provenance.
 
 I also conduct research for ESQ Group, in the RnD of multiple Machine Learning models, and also (on hiatus) AIRDU Research Group of Department of Computer Science, Universitas Ary Ginanjar.
 
