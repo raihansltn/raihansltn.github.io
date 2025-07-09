@@ -196,8 +196,8 @@ awards:
 
 Hi there, I'm Raihan! An undergraduate Computer Science student at Universitas Ary Ginanjar. I'm a dedicated Security practitioner and Junior Researcher with a passion for exploring diverse and impactful fields.
 
-I'm currently conducting research as a remote research intern for Prof. Peng Gao's Virginia Tech Security and Intelligence Laboratory, working on Kernel-Level Security for Distributed Systems using eBPF and Provenance.
+I'm currently conducting research as a (remote) research intern for Prof. Peng Gao's Virginia Tech Security and Intelligence Laboratory, working on Formal Methode for LLM Security.
 
-I also conduct research for ESQ Group, in the RnD of multiple Machine Learning models, and also (on hiatus) AIRDU Research Group of Department of Computer Science, Universitas Ary Ginanjar.
+I also conduct research for ESQ Group, in the RnD of LLM, and also (on hiatus) AIRDU Research Group of Department of Computer Science, Universitas Ary Ginanjar.
 
-For UAG Computer Science students who are interested in contributing to the AIRDU Research Group, please reach out to me first during my offline office hours or via college email, so I can assist in assigning you to our research activities.
+For UAG Computer Science students who are interested in contributing to the AIRDU Research Group, please reach out to me first during my offline office hours or via college email raihansultan.pashabasuki@students[dot]esqbs[dot]ac[dot]id, so I can assist in assigning you to our research activities.
