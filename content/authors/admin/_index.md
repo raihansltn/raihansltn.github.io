@@ -66,6 +66,7 @@ profiles:
   #   url: https://app.hackthebox.com/profile/1694907
 interests:
   - AI and ML (Esp. for Security)
+  - Secure ML System
   - Network & System Security
   - Firmware Security & Reverse Engineering
   - Cyber Threat Intelligence
@@ -200,4 +201,4 @@ I'm currently conducting research as a (remote) research intern for Prof. Peng G
 
 I also conduct research for ESQ Group, in the RnD of LLM, and also (on hiatus) AIRDU Research Group of Department of Computer Science, Universitas Ary Ginanjar.
 
-For UAG Computer Science students who are interested in contributing to the AIRDU Research Group, please reach out to me first during my offline office hours or via college email raihansultan.pashabasuki@students[dot]esqbs[dot]ac[dot]id, so I can assist in assigning you to our research activities.
+For UAG Computer Science students who are interested in contributing to the AIRDU Research Group, please reach out to me first during my offline office hours or via college email raihansultan.pashabasuki @ students[dot]esqbs[dot]ac[dot]id, so I can assist in assigning you to our research activities.
