@@ -89,6 +89,17 @@ education:
     summary: |
       Within Garuda ACE SYAIR Program, a collaboration between MoECRT of Indonesia and University of Chicago. I undergo System and AI Research Training Program (SYAIR) under Prof. Haryadi Gunawi.
 work:
+  - position: Machine Learning Researcher
+    company_name: ESQ Group
+    company_url: https://esqgroup.co.id/
+    company_logo: https://media.licdn.com/dms/image/v2/C560BAQFesrFduaTlKg/company-logo_200_200/company-logo_200_200/0/1630642067810/esqgroup_logo?e=1758758400&v=beta&t=U6xrTs8lkgaBNiEa1-4F5mSrP8-sviWTSpQ-bn4zbJk
+    date_start: 2025-05-13
+    date_end: 2025-08-12
+    summary: |2-
+      Responsibilities include:
+      - Evaluated, improved, and tested multiple model algorithms for implementation in the Talent DNA™ AskAdinda feature.
+      - Researched and developed Large Language Model (LLM) algorithms, pipeline, and environment to support the upcoming project.
+      - Researched for Generative AI model using Causal Self-Attention, and Multi-Layer Perceptron (MLP) algorithms within its architecture.
   - position: System Engineer
     company_name: Meta Cyber Brotherindo
     company_url: https://metacyber.co.id/
@@ -197,8 +208,8 @@ awards:
 
 Hi there, I'm Raihan! An undergraduate Computer Science student at Universitas Ary Ginanjar. I'm a dedicated Security practitioner and Junior Researcher with a passion for exploring diverse and impactful fields.
 
-I'm currently conducting research as a (remote) research intern for Prof. Peng Gao's Virginia Tech Security and Intelligence Laboratory, working on Formal Methode for LLM Security.
+I'm currently conducting research as a (remote) research intern for Dr. Peng Gao's Virginia Tech Security and Intelligence Laboratory, working on Formal Methode for LLM Security.
 
-I also conduct research for ESQ Group, in the RnD of LLM, and also (on hiatus) AIRDU Research Group of Department of Computer Science, Universitas Ary Ginanjar.
+I also conduct research for AIRDU Research Group of Department of Computer Science, Universitas Ary Ginanjar.
 
 For UAG Computer Science students who are interested in contributing to the AIRDU Research Group, please reach out to me first during my offline office hours or via college email raihansultan.pashabasuki @ students[dot]esqbs[dot]ac[dot]id, so I can assist in assigning you to our research activities.
