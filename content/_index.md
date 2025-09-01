@@ -44,16 +44,15 @@ sections:
         My research interests are to discover and understand critical security issues, and then to design and develop innovative solutions to address these issues.
         
         To be precise, my research areas and interests:
-        - Programmable network security and provenance
-        - Privacy Compliance and Enforcement
         - Secure ML Systems
+        - NLP/ML-assisted Anomaly Detection
+        - Vulnerability Discovery
+        - Firmware Security & Reverse Engineering
+        - Side-channel Attacks on Wireless Networks
         - Cyber Threat Intelligence
-        - NLP/ML-assisted Anomaly Detection and Vulnerability Discovery
-        - Side-channel attacks on wireless networks
-        - Log and traffic analysis for attack detection and threat intelligence
-        - DDoS mitigation using SDN
-        - Firmware security and reverse engineering
-        - Anti-forensic technique and mitigation
+        - IPS/IDS
+        - Privacy Compliance and Enforcement (Formal Methods)
+        - Programmable Network Security
 
         I’m always excited to collaborate with like-minded individuals and organizations to solve complex challenges and drive innovation. Please reach me at raihansultanpb@gmail.com for a research collaboration!
     design:

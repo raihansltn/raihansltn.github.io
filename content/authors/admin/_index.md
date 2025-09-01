@@ -26,8 +26,6 @@ role: Cybersecurity Practitioner / Junior Researcher
 organizations:
   - name: VT Security and Intelligence Lab.
   #  url: https://uag.ac.id/index.php/ilmu-komputer
-  - name: ESQ Group
-    url: https://esqgroup.co.id/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -65,12 +63,9 @@ profiles:
   # - icon: custom/htb
   #   url: https://app.hackthebox.com/profile/1694907
 interests:
-  - AI and ML (Esp. for Security)
-  - Secure ML System
-  - Network & System Security
-  - Firmware Security & Reverse Engineering
-  - Cyber Threat Intelligence
-  - Vulnerability Detection (IDS/IPS)
+  - AI/ML for Offensive & Defensive Security
+  - Low-Level & System/Network Security
+  - Formal Methods for Security & Compliance
 
 education:
   - area: Computer Science (BCs / S.Kom.)
@@ -100,6 +95,8 @@ work:
       - Evaluated, improved, and tested multiple model algorithms for implementation in the Talent DNA™ AskAdinda feature.
       - Researched and developed Large Language Model (LLM) algorithms, pipeline, and environment to support the upcoming project.
       - Researched for Generative AI model using Causal Self-Attention, and Multi-Layer Perceptron (MLP) algorithms within its architecture.
+      - Developed GPT2-based model for AskAdinda, and MiniLM-based Sentence Transformers.
+      - Deployed the model within the pipeline with FastAPI, integrated it with Streamlit-based RAG.
   - position: System Engineer
     company_name: Meta Cyber Brotherindo
     company_url: https://metacyber.co.id/
@@ -152,7 +149,7 @@ skills:
         icon: custom/SE
       - name: Digital Forensics
         percent: 80
-        icon: custom/DF
+        # icon: custom/DF
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
