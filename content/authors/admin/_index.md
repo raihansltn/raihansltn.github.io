@@ -25,7 +25,7 @@ role: Cybersecurity Practitioner / Junior Researcher
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: VT Security and Intelligence Lab.
-  #  url: https://uag.ac.id/index.php/ilmu-komputer
+    url: https://people.cs.vt.edu/penggao/lab.html
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -205,7 +205,7 @@ awards:
 
 Hi there, I'm Raihan! An undergraduate Computer Science student at Universitas Ary Ginanjar. I'm a dedicated Security practitioner and Junior Researcher with a passion for exploring diverse and impactful fields.
 
-I'm currently conducting research as a (remote) research intern for Dr. Peng Gao's Virginia Tech Security and Intelligence Laboratory, working on Formal Methode for LLM Security.
+I'm currently conducting research as a (remote) research intern for [Virginia Tech Security and Intelligence Laboratory](https://people.cs.vt.edu/penggao/lab.html) under advisement of [Dr. Peng Gao](https://people.cs.vt.edu/penggao/), working on Formal Methode for LLM Security.
 
 I also conduct research for AIRDU Research Group of Department of Computer Science, Universitas Ary Ginanjar.
 
