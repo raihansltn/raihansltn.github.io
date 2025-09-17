@@ -6,8 +6,8 @@ title: Raihan Sultan Pasha Basuki.
 name_pronunciation:
 
 # Full name (for SEO)
-first_name: Raihan
-last_name: Basuki
+first_name: Raihan Sultan
+last_name: Pasha Basuki
 
 # Status emoji
 status:
@@ -77,12 +77,7 @@ education:
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
-  - area: Computer Science (Non-Degree)
-    institution: University of Chicago
-    date_start: 2025-01-01
-    date_end: 2025-06-01
-    summary: |
-      Within Garuda ACE SYAIR Program, a collaboration between MoECRT of Indonesia and University of Chicago. I undergo System and AI Research Training Program (SYAIR) under Prof. Haryadi Gunawi.
+
 work:
   - position: Machine Learning Researcher
     company_name: ESQ Group
