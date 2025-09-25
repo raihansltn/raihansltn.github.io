@@ -142,15 +142,14 @@ sections:
           # Text color (true=light, false=dark, or remove for the dynamic theme color).
           text_color_light: false
   - block: collection
-    id: news
     content:
       title: 'Recent News'
       subtitle: ''
       text: |-
-        - <ins>News<ins>**May 21, 2025**: Start conducting research for [VT Security Intelligence Laboratory.](https://people.cs.vt.edu/penggao/lab.html)
-        - <ins>News<ins>**Apr 17, 2025**: [Full-time Research Assistant at AIRDU Research Group.](https://raihansultan.tech/post/airdu-ra/)
-        - <ins>News<ins>**Mar 13, 2025**: [Brainstorming and Project Initation with AIRDU Research Group.](https://raihansultan.tech/post/airdu-initiate/)
-        - <ins>Award<ins>*Dec 2, 2024*: Raihan received Garuda ACE 2.0 Research Fellowship Award by MoECRT of Indonesia.
+        - <ins>News</ins> **May 21, 2025**: Start conducting research for [VT Security Intelligence Laboratory.](https://people.cs.vt.edu/penggao/lab.html)
+        - <ins>News</ins> **Apr 17, 2025**: [Full-time Research Assistant at AIRDU Research Group.](https://raihansultan.tech/post/airdu-ra/)
+        - <ins>News</ins> **Mar 13, 2025**: [Brainstorming and Project Initation with AIRDU Research Group.](https://raihansultan.tech/post/airdu-initiate/)
+        - <ins>Award</ins> **Dec 2, 2024**: Raihan received Garuda ACE 2.0 Research Fellowship Award by MoECRT of Indonesia.
     design:
       columns: '1'
       color: white
