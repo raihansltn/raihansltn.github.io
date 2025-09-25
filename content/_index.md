@@ -143,7 +143,7 @@ sections:
           text_color_light: false
   - block: collection
     content:
-      title: 'Recent News'
+      title: 'Recent Updates'
       subtitle: ''
       text: |-
         - <ins>News</ins> **May 21, 2025**: Start conducting research for [VT Security Intelligence Laboratory.](https://people.cs.vt.edu/penggao/lab.html)
