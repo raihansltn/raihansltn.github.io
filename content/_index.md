@@ -144,51 +144,27 @@ sections:
   - block: collection
     id: news
     content:
-      title: Recent News
+      title: 'Recent News'
       subtitle: ''
-      text: ''
-      # Page type to display. E.g. post, talk, publication...
-      page_type: post
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
+      text: |-
+        - <ins>News<ins>**May 21, 2025**: Start conducting research for [VT Security Intelligence Laboratory.](https://people.cs.vt.edu/penggao/lab.html)
+        - <ins>News<ins>**Apr 17, 2025**: [Full-time Research Assistant at AIRDU Research Group.](https://raihansultan.tech/post/airdu-ra/)
+        - <ins>News<ins>**Mar 13, 2025**: [Brainstorming and Project Initation with AIRDU Research Group.](https://raihansultan.tech/post/airdu-initiate/)
+        - <ins>Award<ins>*Dec 2, 2024*: Raihan received Garuda ACE 2.0 Research Fellowship Award by MoECRT of Indonesia.
     design:
-      # Choose a layout view
-      view: date-title-summary
-      # Reduce spacing
-      spacing:
-        padding: [10, 10, 0, 0]
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      view: article-grid
-      columns: 1
+      columns: '1'
       color: white
+      design:
+      view: article-grid
+      columns: 2
       background:
         image:
           # Name of image in `assets/media/`.
-          # filename: background2.jpg
+          # filename: cyber.jpg
           # Apply image filters?
           filters:
             # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
-            brightness: 0.4
+            brightness: 0.2
           #  Image fit. Options are `cover` (default), `contain`, or `actual` size.
           size: cover
           # Image focal point. Options include `left`, `center` (default), or `right`.
@@ -197,6 +173,60 @@ sections:
           parallax: true
           # Text color (true=light, false=dark, or remove for the dynamic theme color).
           text_color_light: false
+  #   content:
+  #     title: Recent News
+  #     subtitle: ''
+  #     text: ''
+  #     # Page type to display. E.g. post, talk, publication...
+  #     page_type: post
+  #     # Choose how many pages you would like to display (0 = all pages)
+  #     count: 5
+  #     # Filter on criteria
+  #     filters:
+  #       author: ""
+  #       category: ""
+  #       tag: ""
+  #       exclude_featured: false
+  #       exclude_future: false
+  #       exclude_past: false
+  #       publication_type: ""
+  #     # Choose how many pages you would like to offset by
+  #     offset: 0
+  #     # Page order: descending (desc) or ascending (asc) date.
+  #     order: desc
+  #   design:
+  #     # Choose a layout view
+  #     view: date-title-summary
+  #     # Reduce spacing
+  #     spacing:
+  #       padding: [10, 10, 0, 0]
+  # - block: collection
+  #   id: talks
+  #   content:
+  #     title: Recent & Upcoming Talks
+  #     filters:
+  #       folders:
+  #         - event
+  #   design:
+  #     view: article-grid
+  #     columns: 1
+  #     color: white
+  #     background:
+  #       image:
+  #         # Name of image in `assets/media/`.
+  #         # filename: background2.jpg
+  #         # Apply image filters?
+  #         filters:
+  #           # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
+  #           brightness: 0.4
+  #         #  Image fit. Options are `cover` (default), `contain`, or `actual` size.
+  #         size: cover
+  #         # Image focal point. Options include `left`, `center` (default), or `right`.
+  #         position: center
+  #         # Use a fun parallax-like fixed background effect on desktop? true/false
+  #         parallax: true
+  #         # Text color (true=light, false=dark, or remove for the dynamic theme color).
+  #         text_color_light: false
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
