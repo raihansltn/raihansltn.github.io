@@ -150,28 +150,28 @@ sections:
         - <ins>News</ins> **Apr 17, 2025**: [Full-time Research Assistant at AIRDU Research Group.](https://raihansultan.tech/post/airdu-ra/)
         - <ins>News</ins> **Mar 13, 2025**: [Brainstorming and Project Initation with AIRDU Research Group.](https://raihansultan.tech/post/airdu-initiate/)
         - <ins>Award</ins> **Dec 2, 2024**: Raihan received Garuda ACE 2.0 Research Fellowship Award by MoECRT of Indonesia.
-    design:
-      columns: '1'
-      color: white
-      design:
-      view: article-grid
-      columns: 2
-      background:
-        image:
-          # Name of image in `assets/media/`.
-          # filename: cyber.jpg
-          # Apply image filters?
-          filters:
-            # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
-            brightness: 0.2
-          #  Image fit. Options are `cover` (default), `contain`, or `actual` size.
-          size: cover
-          # Image focal point. Options include `left`, `center` (default), or `right`.
-          position: center
-          # Use a fun parallax-like fixed background effect on desktop? true/false
-          parallax: true
-          # Text color (true=light, false=dark, or remove for the dynamic theme color).
-          text_color_light: false
+    # design:
+    #   columns: '1'
+    #   color: white
+    #   design:
+    #   view: article-grid
+    #   columns: 2
+    #   background:
+    #     image:
+    #       # Name of image in `assets/media/`.
+    #       # filename: cyber.jpg
+    #       # Apply image filters?
+    #       filters:
+    #         # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
+    #         brightness: 0.2
+    #       #  Image fit. Options are `cover` (default), `contain`, or `actual` size.
+    #       size: cover
+    #       # Image focal point. Options include `left`, `center` (default), or `right`.
+    #       position: center
+    #       # Use a fun parallax-like fixed background effect on desktop? true/false
+    #       parallax: true
+    #       # Text color (true=light, false=dark, or remove for the dynamic theme color).
+    #       text_color_light: false
   #   content:
   #     title: Recent News
   #     subtitle: ''
