@@ -78,33 +78,6 @@ sections:
           # Text color (true=light, false=dark, or remove for the dynamic theme color).
           text_color_light: false
   - block: collection
-    id: contents
-    content:
-      title: Contents
-      filters:
-        folders:
-          - teaching
-        featured_only: false
-    design:
-      view: article-grid
-      columns: 2
-      background:
-        image:
-          # Name of image in `assets/media/`.
-          # filename: background1.jpg
-          # Apply image filters?
-          filters:
-            # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
-            brightness: 0.4
-            #  Image fit. Options are `cover` (default), `contain`, or `actual` size.
-            size: cover
-            # Image focal point. Options include `left`, `center` (default), or `right`.
-            position: center
-            # Use a fun parallax-like fixed background effect on desktop? true/false
-            parallax: true
-            # Text color (true=light, false=dark, or remove for the dynamic theme color).
-            text_color_light: false
-  - block: collection
     content:
       title: Recent Publications
       text: ""
@@ -114,43 +87,17 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  - block: collection
-    id: project
-    content:
-      title: Projects
-      filters:
-        folders:
-          - project
-    design:
-      view: article-grid
-      columns: 2
-      color: white
-      background:
-        image:
-          # Name of image in `assets/media/`.
-          # filename: background3.jpg
-          # Apply image filters?
-          filters:
-            # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
-            brightness: 0.4
-          #  Image fit. Options are `cover` (default), `contain`, or `actual` size.
-          size: cover
-          # Image focal point. Options include `left`, `center` (default), or `right`.
-          position: center
-          # Use a fun parallax-like fixed background effect on desktop? true/false
-          parallax: true
-          # Text color (true=light, false=dark, or remove for the dynamic theme color).
-          text_color_light: false
   - block: markdown
+    id: news
     content:
-      title: 'Recent Updates'
+      title: 'Recent News'
       subtitle: ''
       text: |-
         - <ins>News</ins> **May 21, 2025**: Start conducting research for [VT Security Intelligence Laboratory.](https://people.cs.vt.edu/penggao/lab.html)
         - <ins>News</ins> **May 13, 2025**: Start conducting research for ESQ Group Corporation, as their ML Researcher, working on LLM.
         - <ins>News</ins> **Apr 17, 2025**: [Full-time Research Assistant at AIRDU Research Group.](https://raihansultan.tech/post/airdu-ra/)
         - <ins>News</ins> **Mar 13, 2025**: [Brainstorming and Project Initation with AIRDU Research Group.](https://raihansultan.tech/post/airdu-initiate/)
-        - <ins>News</ins> **Jan 3, 2025**: We proposed [DepPredict](https://raihansultan.tech/publication/pmpdp/), a model to predict and identifies the likelihood of depression for students.
+        - <ins>Research</ins> **Jan 3, 2025**: We proposed [DepPredict](https://raihansultan.tech/publication/pmpdp/), a model to predict and identifies the likelihood of depression for students.
         - <ins>Award</ins> **Dec 2, 2024**: Raihan received Garuda ACE 2.0 Research Fellowship Award by MoECRT of Indonesia.
     design:
       columns: '1'
@@ -201,6 +148,61 @@ sections:
   #     # Reduce spacing
   #     spacing:
   #       padding: [10, 10, 0, 0]
+  - block: collection
+    id: contents
+    content:
+      title: Contents
+      filters:
+        folders:
+          - teaching
+        featured_only: false
+    design:
+      view: article-grid
+      columns: 2
+      background:
+        image:
+          # Name of image in `assets/media/`.
+          # filename: background1.jpg
+          # Apply image filters?
+          filters:
+            # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
+            brightness: 0.4
+            #  Image fit. Options are `cover` (default), `contain`, or `actual` size.
+            size: cover
+            # Image focal point. Options include `left`, `center` (default), or `right`.
+            position: center
+            # Use a fun parallax-like fixed background effect on desktop? true/false
+            parallax: true
+            # Text color (true=light, false=dark, or remove for the dynamic theme color).
+            text_color_light: false
+  - block: collection
+    id: project
+    content:
+      title: Projects
+      filters:
+        folders:
+          - project
+    design:
+      view: article-grid
+      columns: 2
+      color: white
+      background:
+        image:
+          # Name of image in `assets/media/`.
+          # filename: background3.jpg
+          # Apply image filters?
+          filters:
+            # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
+            brightness: 0.4
+          #  Image fit. Options are `cover` (default), `contain`, or `actual` size.
+          size: cover
+          # Image focal point. Options include `left`, `center` (default), or `right`.
+          position: center
+          # Use a fun parallax-like fixed background effect on desktop? true/false
+          parallax: true
+          # Text color (true=light, false=dark, or remove for the dynamic theme color).
+          text_color_light: false
+  
   - block: collection
     id: talks
     content:
