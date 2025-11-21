@@ -93,6 +93,7 @@ sections:
       title: 'Recent News'
       subtitle: ''
       text: |-
+        - <ins>News</ins> **Nov 25, 2025**: I'll be replace teaching for Session #11, KKAR201 Data Mining Course.
         - <ins>News</ins> **Oct 5, 2025**: Started a Teaching Assistant position for KKAI300 – Artificial Intelligence for the Fall 2025 semester.
         - <ins>News</ins> **May 21, 2025**: Started conduct research for [VT Security Intelligence Laboratory.](https://people.cs.vt.edu/penggao/lab.html)
         - <ins>News</ins> **May 13, 2025**: Started conduct research for ESQ Group Corporation, as their ML Researcher, working on LLM.
