@@ -93,10 +93,11 @@ sections:
       title: 'Recent News'
       subtitle: ''
       text: |-
-        - <ins>News</ins> **Nov 25, 2025**: I'll be replace teaching for Session #11, KKAR201 Data Mining Course.
+        - <ins>News</ins> **Dec 13, 2025**: I'll be replace teaching for Session #16, KKAR201 Data Mining Course.
+        - <ins>News</ins> **Nov 7, 2025**: Raihan will start filling lecture roles for freshmen members, in addition to his research project work
         - <ins>News</ins> **Oct 5, 2025**: Started a Teaching Assistant position for KKAI300 – Artificial Intelligence for the Fall 2025 semester.
-        - <ins>News</ins> **May 21, 2025**: Started conduct research for [VT Security Intelligence Laboratory.](https://people.cs.vt.edu/penggao/lab.html)
-        - <ins>News</ins> **May 13, 2025**: Started conduct research for ESQ Group Corporation, as their ML Researcher, working on LLM.
+        - <ins>Research</ins> **May 21, 2025**: Started conduct research for [VT Security Intelligence Laboratory.](https://people.cs.vt.edu/penggao/lab.html)
+        - <ins>Research</ins> **May 13, 2025**: Started conduct research for ESQ Group Corporation, as their ML Researcher, working on LLM.
         - <ins>News</ins> **Apr 17, 2025**: [Full-time Research Assistant at AIRDU Research Group.](https://raihansultan.tech/post/airdu-ra/)
         - <ins>News</ins> **Mar 13, 2025**: [Brainstorming and Project Initation with AIRDU Research Group.](https://raihansultan.tech/post/airdu-initiate/)
         - <ins>Research</ins> **Jan 3, 2025**: We proposed [DepPredict](https://raihansultan.tech/publication/pmpdp/), a model to predict and identifies the likelihood of depression for students.
