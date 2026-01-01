@@ -39,8 +39,8 @@ profiles:
   - icon: custom/researchgate
     url: https://www.researchgate.net/profile/Raihan-Basuki-3
     label: ResearchGate
-#  - icon: brands/x
-#    url: https://twitter.com/GetResearchDev
+  - icon: brands/x
+    url: https://twitter.com/raihansltn
   - icon: brands/instagram
     url: https://www.instagram.com/raihansltn
   - icon: brands/github
@@ -65,7 +65,7 @@ profiles:
 interests:
   - AI/ML for Offensive & Defensive Security
   - Low-Level & System/Network Security
-  - Formal Methods for Security & Compliance
+  - Vunerability Discovery and Intelligence
 
 education:
   - area: Computer Science (BCs / S.Kom.)
@@ -200,8 +200,8 @@ awards:
 
 Hi there, I'm Raihan! An undergraduate Computer Science student at Universitas Ary Ginanjar. I'm a dedicated Security practitioner and Junior Researcher with a passion for exploring diverse and impactful fields.
 
-I'm currently conducting research as a (remote) research intern for [Virginia Tech Security and Intelligence Laboratory](https://people.cs.vt.edu/penggao/lab.html) under advisement of [Dr. Peng Gao](https://people.cs.vt.edu/penggao/), working on Formal Methode for LLM Security.
+I'm currently conducting research as a (remote) research intern for [Virginia Tech Security and Intelligence Laboratory](https://people.cs.vt.edu/penggao/lab.html) under advisement of [Dr. Peng Gao](https://people.cs.vt.edu/penggao/), working on ML-assisted threat intelligence analysis.
 
 I also conduct research for AIRDU Research Group of Department of Computer Science, Universitas Ary Ginanjar.
 
-For UAG Computer Science students who are interested in contributing to the AIRDU Research Group, please reach out to me first during my offline office hours or via college email raihansultan.pashabasuki @ students[dot]esqbs[dot]ac[dot]id, so I can assist in assigning you to our research activities.
+For UAG Computer Science students who are interested in contributing to the AIRDU Research Group, please reach out to me first during my offline office hours or via college email raihansultan.pashabasuki @ students[dot]uag[dot]ac[dot]id, so I can assist in assigning you to our research activities.

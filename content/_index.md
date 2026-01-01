@@ -44,7 +44,6 @@ sections:
         My research interests are to discover and understand critical security issues, and then to design and develop innovative solutions to address these issues.
         
         To be precise, my research areas and interests:
-        - Secure ML Systems
         - NLP/ML-assisted Anomaly Detection
         - Vulnerability Discovery
         - Firmware Security & Reverse Engineering
@@ -93,7 +92,7 @@ sections:
       title: 'Recent News'
       subtitle: ''
       text: |-
-        - <ins>News</ins> **Dec 13, 2025**: I'll be replace teaching for Session #16, KKAR201 Data Mining Course.
+        - <ins>News</ins> **Dec 13, 2025**: I'll be replace teaching for Session #16, KKBD401 Data Mining Course.
         - <ins>News</ins> **Nov 7, 2025**: Raihan will start filling lecture roles for freshmen members, in addition to his research project work
         - <ins>News</ins> **Oct 5, 2025**: Started a Teaching Assistant position for KKAI300 – Artificial Intelligence for the Fall 2025 semester.
         - <ins>Research</ins> **May 21, 2025**: Started conduct research for [VT Security Intelligence Laboratory.](https://people.cs.vt.edu/penggao/lab.html)
