@@ -92,17 +92,16 @@ sections:
       title: 'Recent News'
       subtitle: ''
       text: |-
-        - <ins>Research</ins> **Jan 4, 2026**: Our research, NL2Logic, has been accepted to the Findings of EACL '26!
-        - <span style="background-color:#d73a49; color:white; padding:2px 6px; border-radius:4px; font-weight:bold;">
-        <ins>News</ins></span> **Dec 13, 2025**: I'll be replace teaching for Session #16, KKBD401 Data Mining Course.
-        - <ins>News</ins> **Nov 7, 2025**: Raihan will start filling lecture roles for freshmen members, in addition to his research project work
-        - <ins>News</ins> **Oct 5, 2025**: Started a Teaching Assistant position for KKAI300 – Artificial Intelligence for the Fall 2025 semester.
-        - <ins>Research</ins> **May 21, 2025**: Started conduct research for [VT Security Intelligence Laboratory.](https://people.cs.vt.edu/penggao/lab.html)
-        - <ins>Research</ins> **May 13, 2025**: Started conduct research for ESQ Group Corporation, as their ML Researcher, working on LLM.
-        - <ins>News</ins> **Apr 17, 2025**: [Full-time Research Assistant at AIRDU Research Group.](https://raihansultan.tech/post/airdu-ra/)
-        - <ins>News</ins> **Mar 13, 2025**: [Brainstorming and Project Initation with AIRDU Research Group.](https://raihansultan.tech/post/airdu-initiate/)
-        - <ins>Research</ins> **Jan 3, 2025**: We proposed [DepPredict](https://raihansultan.tech/publication/pmpdp/), a model to predict and identifies the likelihood of depression for students.
-        - <ins>Award</ins> **Dec 2, 2024**: Raihan received Garuda ACE 2.0 Research Fellowship Award by MoECRT of Indonesia.
+        - <span style="background-color:#0000FF; color:white; padding:2px 6px; border-radius:4px; font-weight:bold;"><ins>Research</ins> **Jan 4, 2026**: Our research, NL2Logic, has been accepted to the Findings of EACL '26!
+        - <span style="background-color:#d73a49; color:white; padding:2px 6px; border-radius:4px; font-weight:bold;"><ins>News</ins></span> **Dec 13, 2025**: I'll be replace teaching for Session #16, KKBD401 Data Mining Course.
+        - <span style="background-color:#d73a49; color:white; padding:2px 6px; border-radius:4px; font-weight:bold;"><ins>News</ins></span> **Nov 7, 2025**: Raihan will start filling lecture roles for freshmen members, in addition to his research project work
+        - <span style="background-color:#0000FF; color:white; padding:2px 6px; border-radius:4px; font-weight:bold;"><ins>News</ins></span> **Oct 5, 2025**: Started a Teaching Assistant position for KKAI300 – Artificial Intelligence for the Fall 2025 semester.
+        - <span style="background-color:#0000FF; color:white; padding:2px 6px; border-radius:4px; font-weight:bold;"><ins>Research</ins></span> **May 21, 2025**: Started conduct research for [VT Security Intelligence Laboratory.](https://people.cs.vt.edu/penggao/lab.html)
+        - <span style="background-color:#0000FF; color:white; padding:2px 6px; border-radius:4px; font-weight:bold;"><ins>Research</ins></span> **May 21, 2025**: Started c<ins>Research</ins></span> **May 13, 2025**: Started conduct research for ESQ Group Corporation, as their ML Researcher, working on LLM.
+        - <span style="background-color:#d73a49; color:white; padding:2px 6px; border-radius:4px; font-weight:bold;"><ins>News</ins></span> **Apr 17, 2025**: [Full-time Research Assistant at AIRDU Research Group.](https://raihansultan.tech/post/airdu-ra/)
+        - <span style="background-color:#d73a49; color:white; padding:2px 6px; border-radius:4px; font-weight:bold;"><ins>News</ins></span> **Mar 13, 2025**: [Brainstorming and Project Initation with AIRDU Research Group.](https://raihansultan.tech/post/airdu-initiate/)
+        - <span style="background-color:#0000FF; color:white; padding:2px 6px; border-radius:4px; font-weight:bold;"><ins>Research</ins></span> **Jan 3, 2025**: We proposed [DepPredict](https://raihansultan.tech/publication/pmpdp/), a model to predict and identifies the likelihood of depression for students.
+        - <span style="background-color:#FFF200; color:white; padding:2px 6px; border-radius:4px; font-weight:bold;"><ins>Award</ins></span> **Dec 2, 2024**: Raihan received Garuda ACE 2.0 Research Fellowship Award by MoECRT of Indonesia.
     design:
       columns: '1'
       color: white
