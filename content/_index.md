@@ -92,7 +92,9 @@ sections:
       title: 'Recent News'
       subtitle: ''
       text: |-
-        - <ins>News</ins> **Dec 13, 2025**: I'll be replace teaching for Session #16, KKBD401 Data Mining Course.
+        - <ins>Research</ins> **Jan 4, 2026**: Our research, NL2Logic, has been accepted to the Findings of EACL '26!
+        - <span style="background-color:#d73a49; color:white; padding:2px 6px; border-radius:4px; font-weight:bold;">
+        <ins>News</ins></span> **Dec 13, 2025**: I'll be replace teaching for Session #16, KKBD401 Data Mining Course.
         - <ins>News</ins> **Nov 7, 2025**: Raihan will start filling lecture roles for freshmen members, in addition to his research project work
         - <ins>News</ins> **Oct 5, 2025**: Started a Teaching Assistant position for KKAI300 – Artificial Intelligence for the Fall 2025 semester.
         - <ins>Research</ins> **May 21, 2025**: Started conduct research for [VT Security Intelligence Laboratory.](https://people.cs.vt.edu/penggao/lab.html)
