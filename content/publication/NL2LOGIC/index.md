@@ -2,11 +2,11 @@
 title: "NL2LOGIC: AST-Guided Translation of Natural Language into First-Order Logic with Large Language Models"
 authors:
 - admin
-date: "2025-01-04T00:00:00Z"
+date: "2026-01-04T00:00:00Z"
 doi: 
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-01-04T00:00:00Z"
+publishDate: "2026-01-04T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
