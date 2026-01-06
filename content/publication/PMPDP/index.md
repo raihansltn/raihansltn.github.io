@@ -2,6 +2,8 @@
 title: "Pembangunan Model Prediksi Depresi Pelajar Berdasarkan Faktor Lingkungan dan Akademis"
 authors:
 - admin
+- Muh. Said Abbas
+- Aliyah Kurniasih
 date: "2025-01-03T00:00:00Z"
 doi: 
 
