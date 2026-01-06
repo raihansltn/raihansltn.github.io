@@ -1,10 +1,10 @@
 ---
 title: "NL2LOGIC: AST-Guided Translation of Natural Language into First-Order Logic with Large Language Models"
 authors:
-  - [Rizky Ramadhana Putra](https://rizkyramadhana26.github.io/)
+  - Rizky Ramadhana Putra
   - admin
-  - [Yutong Cheng](https://ccsnow127.github.io/)
-  - [Peng Gao](https://people.cs.vt.edu/penggao/)
+  - Yutong Cheng
+  - Peng Gao
 date: "2026-01-04T00:00:00Z"
 doi: 
 
