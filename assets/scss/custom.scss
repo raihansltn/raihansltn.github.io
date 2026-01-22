@@ -1,0 +1,16 @@
+/* Increase Avatar Size */
+.avatar-circle, 
+.portrait {
+  width: 250px !important;  /* Default is usually 150px-200px */
+  height: 250px !important;
+  border-width: 4px !important; /* Optional: Thicker border */
+  margin-bottom: 1.5rem;
+}
+
+/* Ensure the image inside fills the larger frame without blurring */
+.avatar-circle img,
+.portrait img {
+  width: 100% !important;
+  height: 100% !important;
+  object-fit: cover;
+}
