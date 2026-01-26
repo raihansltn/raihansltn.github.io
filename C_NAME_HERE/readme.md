@@ -1,0 +1,1 @@
+Hey, put the CNAME to /static and make sure you put the domain correct
