@@ -20,7 +20,7 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: 
+abstract: Automated reasoning is critical in domains such as law and governance, where verifying claims against facts in documents requires both accuracy and interpretability. Recent work has adopted a structured reasoning paradigm that parses first-order logic (FOL) rules from natural language and delegates inference to automated solvers. With the rise of large language models (LLMs), methods such as GCD and CODE4LOGIC leverage their reasoning and code generation capabilities to enhance logic parsing. However, these approaches suffer from (1) fragile syntax control, due to weak enforcement of global grammar consistency, and (2) low semantic faithfulness, as they lack fine-grained clause-level semantic understanding. To address these challenges, we propose NL2LOGIC, a FOL translation framework that uses an AST as an intermediate layer, combining a recursive LLM-based semantic parser with an AST-guided generator that deterministically produces solver-ready code. On the FO- LIO, LogicNLI, and ProofWriter benchmarks, NL2LOGIC attains 99% syntactic accuracy and improves semantic correctness by 30% over state-of-the-art baselines. Moreover, integrating NL2LOGIC into Logic-LM yields near- perfect executability and improves downstream reasoning accuracy by 31% over Logic-LM’s original few-shot unconstrained FOL translation module
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -34,12 +34,12 @@ featured: true
 
 # - name: Custom Link
 #   url: http://example.org
-# url_pdf: https://drive.google.com/file/d/1d2SEtT15_wjM1-bz6ogeQ0uG4ndqDiXL/view?usp=drive_link 
-# url_code: 'https://www.kaggle.com/datasets/hopesb/student-depression-dataset'
+url_pdf: https://www.arxiv.org/abs/2602.13237
+url_code: 'https://github.com/peng-gao-lab/nl2logic'
 # url_dataset: '#'
-# url_poster: 'https://drive.google.com/file/d/1h_KpdIIiXtWR-HMv7nFkSIjI4Ijwz6lX/view?usp=drive_link'
+url_poster: 'https://drive.google.com/file/d/1C-HKYaHPiNal_VwPO3el_16W6PZocYJ2/view?usp=sharing'
 # url_project: 'https://www.figma.com/design/vTypfrspxlCrNUiGJfnEoG/Jaklitera?node-id=53-1388&t=E9hRwvu900Xop4Ap-1'
-# url_slides: 'https://drive.google.com/file/d/1eJW3IW8hDOn2JmK06ZiK5s2gxFAzudYw/view?usp=drive_link'
+url_slides: 'https://drive.google.com/file/d/1Q1Ud5jXmYFzGeq5FS0CYwDHdCbKunQ8s/view?usp=drive_link'
 # url_source: '#'
 # url_video: '#'
 
