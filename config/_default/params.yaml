@@ -23,7 +23,7 @@ marketing:
     fathom: ''
     pirsch: ''
   verification:
-    google: ''
+    google: 'TEn_hh6Oh6DvMPsiU6zMdHOvjTIUVukptX2wncowOrs'
     baidu: ''
 
 # Site header
@@ -55,6 +55,6 @@ locale:
 # Site features
 features:
   math:
-    enable: false
+    enable: true
   privacy_pack:
     enable: false
