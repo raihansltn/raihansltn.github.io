@@ -69,6 +69,7 @@ interests:
 
 education:
   - area: Computer Science (PhD) - Incoming
+    institution: Virginia Tech
     date_start: 2026-09-01
     date_end: 2031-09-01
   - area: Computer Science (BCs / S.Kom.)
