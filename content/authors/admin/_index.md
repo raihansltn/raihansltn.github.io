@@ -68,6 +68,9 @@ interests:
   - Vunerability Discovery and Intelligence
 
 education:
+  - area: Computer Science (PhD) - Incoming
+    date_start: 2026-09-01
+    date_end: 2031-09-01
   - area: Computer Science (BCs / S.Kom.)
     institution: Universitas Ary Ginanjar
     date_start: 2022-09-01
@@ -198,7 +201,7 @@ awards:
 
 ## About Me
 
-Hi there, I'm Raihan! An undergraduate Computer Science student at Universitas Ary Ginanjar. I'm a dedicated Security practitioner and Junior Researcher with a passion for exploring diverse and impactful fields.
+Hi there, I'm Raihan! An undergraduate Computer Science student at [Universitas Ary Ginanjar](https://uag.ac.id), and will be joining [Virginia Tech Department of Computer Science](https://cs.vt.edu/) as a PhD student starting Fall 2026.
 
 I'm currently conducting research as a (remote) research intern for [Virginia Tech Security and Intelligence Laboratory](https://people.cs.vt.edu/penggao/lab.html) under advisement of [Dr. Peng Gao](https://people.cs.vt.edu/penggao/), working on ML-assisted threat intelligence analysis.
 

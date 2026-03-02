@@ -92,6 +92,9 @@ sections:
       title: 'Recent News'
       subtitle: ''
       text: |-
+        - <span style="background-color:#BA8E23; color:white; padding:2px 6px; border-radius:4px; font-weight:bold;"><ins>Service</ins></span> **10 Feb, 2026**: Raihan has been accepted as a Student Volunteer for EACL 2026 (The 19th Conference of the European Chapter of the Association for Computational Linguistics) and will serve on-site in Rabat, Morocco.
+        - <span style="background-color:#008000; color:white; padding:2px 6px; border-radius:4px; font-weight:bold;"><ins>Award</ins></span> **4 Feb, 2026**: Raihan has been awarded financial support from the Virginia Tech Computer Science Department and will serve as a full-time Graduate Research/Teaching Assistant during his doctoral studies.
+        - <span style="background-color:#d73a49; color:white; padding:2px 6px; border-radius:4px; font-weight:bold;"><ins>News</ins></span> **Feb 3, 2026**: Raihan has been admitted to Direct PhD program at Virginia Tech Department of Computer Science! Starting Fall 2026.
         - <span style="background-color:#0000FF; color:white; padding:2px 6px; border-radius:4px; font-weight:bold;"><ins>Research</ins></span> **Jan 4, 2026**: Our research, NL2Logic, has been accepted to the Findings of [EACL '26](https://2026.eacl.org/)! It will be presented at the 19th EACL conference this March in Rabat, Morocco.
         - <span style="background-color:#d73a49; color:white; padding:2px 6px; border-radius:4px; font-weight:bold;"><ins>News</ins></span> **Dec 13, 2025**: I'll be replace teaching for Session #16, KKBD401 Data Mining Course.
         - <span style="background-color:#d73a49; color:white; padding:2px 6px; border-radius:4px; font-weight:bold;"><ins>News</ins></span> **Nov 7, 2025**: Raihan will start filling lecture roles for freshmen members, in addition to his research project work
