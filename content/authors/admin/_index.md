@@ -76,11 +76,11 @@ education:
     institution: Universitas Ary Ginanjar
     date_start: 2022-09-01
     date_end: 2026-09-01
-    # summary: |
-    #   Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    # button:
-    #   text: 'Read Thesis'
-    #   url: 'https://example.com'
+    summary: |
+      Thesis on Boundary-Seeking GAN-Augmented TabTransformer for Adversarially Robust Intrusion Detection.
+    button:
+      text: 'Read Thesis'
+      url: 'https://arxiv.org/abs/2607.16348'
 
 work:
   - position: Machine Learning Researcher
