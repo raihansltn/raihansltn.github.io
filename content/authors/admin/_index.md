@@ -202,6 +202,6 @@ awards:
 
 ## About Me
 
-Hi there, I'm Raihan! An PhD student [Virginia Tech Department of Computer Science](https://cs.vt.edu/) under advisement of [Dr. Peng Gao](https://people.cs.vt.edu/penggao/).
+Hi there, I'm Raihan! A PhD student at [Virginia Tech Department of Computer Science](https://cs.vt.edu/) under advisement of [Dr. Peng Gao](https://people.cs.vt.edu/penggao/).
 
 I'm also currently conducting research as a Graduate Researcher for [Virginia Tech Security and Intelligence Laboratory](https://people.cs.vt.edu/penggao/lab.html), working on ML-assisted threat intelligence analysis.
