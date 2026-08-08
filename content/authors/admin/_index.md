@@ -68,7 +68,7 @@ interests:
   - Vunerability Discovery and Intelligence
 
 education:
-  - area: Computer Science (PhD) - Incoming
+  - area: Computer Science (PhD)
     institution: Virginia Tech
     date_start: 2026-09-01
     date_end: 2031-09-01
@@ -202,10 +202,6 @@ awards:
 
 ## About Me
 
-Hi there, I'm Raihan! An undergraduate Computer Science student at [Universitas Ary Ginanjar](https://uag.ac.id), and will be joining [Virginia Tech Department of Computer Science](https://cs.vt.edu/) as a PhD student starting Fall 2026.
+Hi there, I'm Raihan! An PhD student [Virginia Tech Department of Computer Science](https://cs.vt.edu/) under advisement of [Dr. Peng Gao](https://people.cs.vt.edu/penggao/).
 
-I'm currently conducting research as a (remote) research intern for [Virginia Tech Security and Intelligence Laboratory](https://people.cs.vt.edu/penggao/lab.html) under advisement of [Dr. Peng Gao](https://people.cs.vt.edu/penggao/), working on ML-assisted threat intelligence analysis.
-
-I also conduct research for AIRDU Research Group of Department of Computer Science, Universitas Ary Ginanjar.
-
-For UAG Computer Science students who are interested in contributing to the AIRDU Research Group, please reach out to me first during my offline office hours or via college email raihansultan.pashabasuki @ students[dot]uag[dot]ac[dot]id, so I can assist in assigning you to our research activities.
+I'm also currently conducting research as a Graduate Researcher for [Virginia Tech Security and Intelligence Laboratory](https://people.cs.vt.edu/penggao/lab.html), working on ML-assisted threat intelligence analysis.
